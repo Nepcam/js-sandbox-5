@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+  "name": "Cameron Nepe",
+  "company": "pikitech",
+  "phone": "64-22-123-123"
+  },
+  {
+  "id": 2,
+  "name": "Mason Apanui-Nepe",
+  "company": "pikitech",
+  "phone": "64-22-123-124"
+  },
+  {
+    "id": 3,
+    "name": "Darius Apanui-Nepe",
+    "company": "pikitech",
+    "phone": "64-22-123-125"
+  },
+  {
+    "id": 4,
+    "name": "Liam Apanui-Nepe",
+    "company": "pikitech",
+    "phone": "64-22-123-126"
+  }
+]
